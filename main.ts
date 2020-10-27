@@ -1,3 +1,4 @@
+light.setBrightness(10)
 light.setPixelColor(0, light.rgb(255, 165, 0))
 light.setPixelColor(1, light.rgb(255, 255, 0))
 light.setPixelColor(2, light.rgb(0, 255, 0))
